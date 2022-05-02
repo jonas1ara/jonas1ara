@@ -2,6 +2,8 @@
 
 I am an engineering student in AI at @IPN_MX y estudiante de matemáticas en la @UnADM_MX
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonas-Lara)](https://github.com/Jonas-Lara/github-readme-stats)
+
 <!--
 **Jonas-Lara/Jonas-Lara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
