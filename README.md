@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I am an engineering student in AI at @IPN_MX y estudiante de matemáticas en la @UnADM_MX
-
 <h1 align="center">Hi 👋, I'm Jonas Lara</h1>
 <h3 align="center">A passionate student of maths and AI</h3>
 
