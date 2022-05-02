@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas Lara</h1>
 <h3 align="center">A passionate student of maths and AI</h3>
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00cf00)
+![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
 - 🔭 I’m currently working on [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR)
 
