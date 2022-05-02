@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles of economy on [adrianopolis.xyz](adrianopolis.xyz)
 - 📝 I regularly write articles of AI on [medium](https://medium.com/@jonas_lara)
-- 📝 I regularly write articles of C on [Ipn.c blog](https://jonas-lara.github.io/Blog-Ipn.c/)
+- 📝 I regularly write articles of C on [Ipn.c](https://jonas-lara.github.io/Blog-Ipn.c/)
 
 - 💬 Ask me about **C/C++, C#, F#, Azure, CV, AI and Maths.**
 
