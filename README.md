@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OpenCV, PyTorch, LibTorch, Computer Vision, AI and Maths.**
 
-- 📝 I regularly write articles of economy on [adrianopolis.xyz](adrianopolis.xyz)
+/* - 📝 I regularly write articles of economy on [adrianopolis.xyz](adrianopolis.xyz) */
 - 📝 I regularly write articles of AI on [medium](https://medium.com/@jonas_lara)
 - 📝 I regularly write articles of C on [Ipn.c](https://jonas-lara.github.io/Blog-Ipn.c/)
 
