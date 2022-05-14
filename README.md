@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
-- 🔭 I’m currently working on [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR)
+- 🔭 I’m currently working on [IPN-CS](https://github.com/Jonas-Lara/IPN-CS) and [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR)
 
 - 🌱 I’m currently learning **OpenCV, PyTorch, LibTorch, Computer Vision, AI and Maths.**
 
