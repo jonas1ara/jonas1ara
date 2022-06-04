@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [IPN-CS](https://github.com/Jonas-Lara/IPN-CS) and [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR)
 
-- 🌱 I’m currently learning **C++, OpenCV, PyTorch, LibTorch, Computer Vision, AI and Maths.**
+- 🌱 I’m currently learning **[C++](https://github.com/Jonas-Lara/Victory-cpp), OpenCV, PyTorch, LibTorch, [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), [AI](https://github.com/Jonas-Lara/AI-cpp) and [Maths](https://github.com/Jonas-Lara/Piton).**
 
 <!-- - 📝 I regularly write articles of economy on [adrianopolis.xyz](adrianopolis.xyz) -->
 - 📝 I regularly write articles of AI on [medium](https://medium.com/@jonas_lara)
