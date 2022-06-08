@@ -8,8 +8,9 @@
 - 🌱 I’m currently learning **[C++](https://github.com/Jonas-Lara/Victory-cpp), OpenCV, PyTorch, LibTorch, [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), [AI](https://github.com/Jonas-Lara/AI-cpp), [Maths](https://github.com/Jonas-Lara/Piton) and Unity AR.**
 
 <!-- - 📝 I regularly write articles of economy on [adrianopolis.xyz](adrianopolis.xyz) -->
-- 📝 I regularly write articles of AI on [medium](https://medium.com/@jonas_lara)
-- 📝 I regularly write articles of C on [Ipn.c](https://jonas-lara.github.io/Blog-IPN-CS/)
+- 📝 I regularly write articles of C on [Ipn.c](https://jonas-lara.github.io/Blog-IPN-CS/) and AI on [medium](https://medium.com/@jonas_lara)
+
+- 🎩 All my repositories work on Linux, specifically with a Debian-based distro, use the scripts to configure your environment
 
 - 💬 Ask me about **Linux, C/C++, [C#](https://github.com/Jonas-Lara/Basi.cs), [F#](https://github.com/Jonas-Lara/Fun.fs), Azure, CV, AI and Maths.**
 
