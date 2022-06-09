@@ -3,8 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
-- 🔭 Actualmente trabajo en [IPN-CS](https://github.com/Jonas-Lara/IPN-CS) y [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR)
-
+- 🔭 Actualmente desarrollo los repositorios [IPN-CS](https://github.com/Jonas-Lara/IPN-CS), [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR) y [CIC-IPN](https://github.com/Jonas-Lara/CIC-CNN),para promover el computo que se trabaja en el Instituto Politécnico Nacional. 
 - 🌱 Actualmente estoy aprendiendo **[C++](https://github.com/Jonas-Lara/Victory-cpp), OpenCV, PyTorch, LibTorch, [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), [AI](https://github.com/Jonas-Lara/AI-cpp), [Maths](https://github.com/Jonas-Lara/Piton) y Unity AR.**
 
 - 📝 Regularmente escribo artículos sobre C en [Ipn.c](https://jonas-lara.github.io/Blog-IPN-CS/) y sobre IA en [medium](https://medium.com/@jonas_lara)
