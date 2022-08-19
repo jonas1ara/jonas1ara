@@ -5,20 +5,7 @@
 
 ![gifs](./Sources/CV.gif)
 
-</div>
-
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="./Sources/CV.gif" 
-    alt="Our logo">
-</img>
-
-
-
- 
+</div> 
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
