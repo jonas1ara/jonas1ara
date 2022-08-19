@@ -3,6 +3,10 @@
 
 {:.center}
 ![gifs](./Sources/CVision.gif)
+
+.center {
+  text-align: center;
+}
  
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
