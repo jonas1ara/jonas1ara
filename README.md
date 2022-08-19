@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, Soy Jonas Lara</h1>
 <h3 align="center">Un apasionado estudiante de IA y Matemáticas</h3>
 
-![gifs](./Sources/CVision.gif)
+<center><img src="./Sources/CV.gifs"></center>
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
