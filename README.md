@@ -15,7 +15,7 @@
 
 - 🐧 All my repositories work on linux, specifically on a Debian based distro, use the scripts to configure your environment
 
-- ❤️ I am a fan of the .NET development platform, I am happy to help you if you need help in F# and C#
+- ❤️ I am a fan of the .NET development platform, I am happy to help you if you need help with F# and C#
 
 
 ![dotNET](./Sources/dotnet%20repl.png)
