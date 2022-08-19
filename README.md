@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonas-lara&show_icons=true&locale=en&layout=compact" alt="jonas-lara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonas-lara&show_icons=true&locale=en" alt="jonas-lara" /></p>
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=jonas-lara&show_icons=true&locale=en" alt="jonas-lara" /></p>
