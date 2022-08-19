@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, Soy Jonas Lara</h1>
 <h3 align="center">Un apasionado estudiante de IA y Matemáticas</h3>
 
+![gifs](./Sources/output.gif)
+
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
 - 🔭 Actualmente desarrollo los repositorios [IPN-CS](https://github.com/Jonas-Lara/IPN-CS), [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR) y [CIC-IPN](https://github.com/Jonas-Lara/CIC-CNN), para promover el computo que se trabaja en el Instituto Politécnico Nacional. 
@@ -11,6 +13,10 @@
 - 🐧 Todos mis repositorios trabajan sobre linux, especificamente en una distro basada en Debian, usa los scripts para configurar tu entorno.
 
 - 💬 Preguntame sobre **Linux, C/C++, [C#](https://github.com/Jonas-Lara/Basi.cs), [F#](https://github.com/Jonas-Lara/Fun.fs), Azure, CV, IA y Matemáticas .**
+
+- ❤️Soy un fan de la plataforma de desarrollo .NET, acude a mí si necesitas ayuda.
+
+![](./Sources/dotnet%20repl.png)
 
 <h3 align="left">Herramientas y lenguajes:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
