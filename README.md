@@ -3,7 +3,7 @@
 
 
 
-<center><img src="./Sources/CV.gif" ...></center>
+<center><img src="./Sources/CVis.gif" ...></center>
 
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
