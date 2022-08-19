@@ -3,7 +3,7 @@
 
 <div style="text-align: center;">
 
-![gifs](./Sources/CVision.gif)
+![gifs](./Sources/CV.gif)
 
 </div>
 
