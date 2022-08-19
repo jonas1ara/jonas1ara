@@ -15,7 +15,7 @@
 - ❤️ Soy un fan de la plataforma de desarrollo .NET, con gusto te asisto si necesitas ayuda en F# y C#
 
 
+![gifs](./Sources/dotnet%20repl.gif)
 
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=jonas-lara&show_icons=true&locale=en" alt="jonas-lara" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonas-lara&show_icons=true&locale=en&layout=compact" alt="jonas-lara" /></p>
