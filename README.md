@@ -3,7 +3,7 @@
 
 
 
-<center><img src="./Sources/CV.gif" ...></center>
+![](./Sources/CV.gif)
 
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
@@ -18,7 +18,5 @@
 - ❤️ Soy un fan de la plataforma de desarrollo .NET, con gusto te asisto si necesitas ayuda en F# y C#
 
 
-![gifs](./Sources/dotnet%20repl.png)
+![dotNET](./Sources/dotnet%20repl.png)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonas-lara&show_icons=true&locale=en&layout=compact" alt="jonas-lara" /></p>
