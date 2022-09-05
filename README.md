@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Jonas Lara</h1>
+<h1 align="center">Hey ✌, I'm Jonas Lara</h1>
 <h3 align="center">A passionate student of AI and Mathematics</h3>
 
 
