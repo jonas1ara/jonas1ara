@@ -2,6 +2,8 @@
 <h3 align="center">A passionate student of AI and Mathematics</h3>
 
 
+![](./Sources/S.gif)
+
 
 ![](./Sources/CVision.gif)
 
