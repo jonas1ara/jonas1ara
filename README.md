@@ -2,10 +2,9 @@
 <h3 align="center">A passionate student of AI and Mathematics</h3>
 
 
-![](./Sources/Shadow.gif)
+![](./Sources/Mediapipe.gif)
 
 
-![](./Sources/CVision.gif)
 
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
