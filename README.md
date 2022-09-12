@@ -19,5 +19,5 @@
 - ❤️ I am a fan of the .NET development platform, I am happy to help you if you need help with F# and C#
 
 
-![dotNET](./Sources/dotnet%20repl.png)
+![dotNET](./Sources/dotNET.png)
 
