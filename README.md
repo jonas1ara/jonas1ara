@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student of AI and Mathematics</h3>
 
 
-![](./Sources/CVision.gif)
+![Object Detection](./Sources/CVision.gif)
 
 
 
@@ -19,5 +19,5 @@
 - ❤️ I am a fan of the .NET development platform, I am happy to help you if you need help with F# and C#
 
 
-![dotNET](./Sources/dotnet.png)
+![dotNET Repl](./Sources/dotNET.png)
 
