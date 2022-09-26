@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
-- 🔭 I'm currently developing the repositories [IPN-CS](https://github.com/Jonas-Lara/IPN-CS), [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR) y [CIC-IPN](https://github.com/Jonas-Lara/CIC-CNN),to promote the computation that works at the National Polytechnic Institute 
+- 🔭 I'm currently developing the repositories [IPN-CS](https://github.com/Jonas-Lara/IPN-CS), [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR) y [CIC-IPN](https://github.com/Jonas-Lara/CIC-CNN), to promote the computation that works at the National Polytechnic Institute 
 - 🌱 I'm currently learning **[C++](https://github.com/Jonas-Lara/Victory-cpp), OpenCV, PyTorch, LibTorch, [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), [AI](https://github.com/Jonas-Lara/AI-cpp), [Maths](https://github.com/Jonas-Lara/Sigma) and Unity AR**
 
 - 📝 I regularly write articles about what I learn from AI on [medium](https://medium.com/@jonas_lara)
