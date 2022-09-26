@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student of AI and Mathematics</h3>
 
 
-![Object Detection](./Sources/CVision.gif)
+![Object Detection](./Sources/ComputerVision.gif)
 
 
 
