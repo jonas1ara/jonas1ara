@@ -22,5 +22,5 @@
 ![dotNET Repl](./Sources/dotNET.png)
 
 I want to know how I spend my time 😁
-![Jonas Lara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonas-Lara&theme=gotham)
+![Jonas Lara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonas-Lara)
 
