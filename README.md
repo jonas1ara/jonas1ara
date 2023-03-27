@@ -19,14 +19,14 @@
 
 - 👀 **Take a look at my [portfolio](https://jonas-lara.github.io/Portfolio-AI/)** 💼
 
+- I 😍 [Maths](https://www.instagram.com/nhard_euler/) 
+
+$$\sum_{k=1}^n c = nc$$
+
 - ❤️ I am a fan of the .NET development platform, I am happy to help you if you need help with F# and C#
 
 
 ![dotNET Repl](./Sources/dotnet-repl.png)
-
-- I ❤️ [Maths](https://www.instagram.com/nhard_euler/) 
-
-$$\sum_{k=1}^n c = nc$$
 
 
 
