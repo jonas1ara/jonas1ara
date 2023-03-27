@@ -17,6 +17,8 @@
 
 - 📝 I regularly write articles about what I learn from AI and CS on [medium](https://medium.com/@jonas_lara)
 
+- 🙋🏽‍♂️ I have a [YOUTUBE](www.youtube.com/@Jonas-1ara) channel in **Spanish** where I explain algorithms and more!
+- 
 - 🫱🏻‍🫲🏾 I share my maths notes on [instagram](https://www.instagram.com/nhard_euler/) 
 
 $$\sum_{k=1}^n c = nc$$
