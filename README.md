@@ -13,7 +13,7 @@
 
 - 🌱 I'm currently learning **[C++](https://github.com/Jonas-Lara/Victory-cpp), OpenCV, PyTorch, LibTorch, [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), [AI](https://github.com/Jonas-Lara/AI-cpp), [Maths](https://github.com/Jonas-Lara/Sigma) and Unity AR**
 
-- 📝 I regularly write articles about what I learn from AI on [medium](https://medium.com/@jonas_lara)
+- 📝 I regularly write articles about what I learn from AI and Computer Science on [medium](https://medium.com/@jonas_lara)
 
 - 👀 **Take a look at my [portfolio](https://jonas-lara.github.io/Portfolio-AI/)** 💼
 
