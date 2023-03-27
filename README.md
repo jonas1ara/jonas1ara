@@ -15,7 +15,9 @@
 
 - 🌱 I'm currently learning **[C++](https://github.com/Jonas-Lara/Rock-Lee), [PyTorch](https://github.com/Jonas-Lara/DL-Py), [LibTorch](https://github.com/Jonas-Lara/DL-Cpp), LibTorch, [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), and [Unity AR](https://github.com/Jonas-Lara/UPIIT-AR)**
 
-- 📝 I regularly write articles about what I learn from AI and Computer Science on [medium](https://medium.com/@jonas_lara)
+- 📝 I regularly write articles about what I learn from AI and CS on [medium](https://medium.com/@jonas_lara)
+
+- I ❤️ [Maths](https://www.instagram.com/nhard_euler/) 
 
 - 👀 **Take a look at my [portfolio](https://jonas-lara.github.io/Portfolio-AI/)** 💼
 
