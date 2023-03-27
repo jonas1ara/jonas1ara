@@ -17,11 +17,11 @@
 
 - 📝 I regularly write articles about what I learn from AI and CS on [medium](https://medium.com/@jonas_lara)
 
-- 👀 **Take a look at my [portfolio](https://jonas-lara.github.io/Portfolio-AI/)** 💼
-
 - 🫱🏻‍🫲🏾 I share my maths notes on [instagram](https://www.instagram.com/nhard_euler/) 
 
 $$\sum_{k=1}^n c = nc$$
+
+- 👀 **Take a look at my [portfolio](https://jonas-lara.github.io/Portfolio-AI/)** 💼
 
 - ❤️ I am a fan of the .NET development platform, I am happy to help you if you need help with F# and C#
 
