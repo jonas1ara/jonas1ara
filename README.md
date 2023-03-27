@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles about what I learn from AI on [medium](https://medium.com/@jonas_lara)
 
-- 👀 Take a look at my [portfolio](https://jonas-lara.github.io/Portfolio-AI/) 💼
+- 👀 **Take a look at my [portfolio](https://jonas-lara.github.io/Portfolio-AI/)** 💼
 
 - 🐧 All my repositories work on linux, specifically on a Debian based distro, use the scripts to configure your environment
 
