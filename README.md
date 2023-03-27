@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently developing the repositories [IPN-CS](https://github.com/Jonas-Lara/IPN-CS), [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR) y [CIC-IPN](https://github.com/Jonas-Lara/CIC-CNN), to promote the computation that works at the National Polytechnic Institute 
 
-- 🐧 All my repositories work on linux, specifically on a Debian based distro, use the scripts to configure your environment
+- 🐧 All my repositories work on linux, specifically on a [Debian](https://www.debian.org/index.html) based distro, use the scripts to configure your environment
 
 - 🌱 I'm currently learning **[C++](https://github.com/Jonas-Lara/Rock-Lee), [PyTorch](https://github.com/Jonas-Lara/DL-Py), [LibTorch](https://github.com/Jonas-Lara/DL-Cpp), LibTorch, [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), and [Unity AR](https://github.com/Jonas-Lara/UPIIT-AR)**
 
