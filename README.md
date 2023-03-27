@@ -19,7 +19,7 @@
 
 - 👀 **Take a look at my [portfolio](https://jonas-lara.github.io/Portfolio-AI/)** 💼
 
-- I share my math notes on [instagram](https://www.instagram.com/nhard_euler/) 
+- 🫱🏻‍🫲🏾 I share my math notes on [instagram](https://www.instagram.com/nhard_euler/) 
 
 $$\sum_{k=1}^n c = nc$$
 
