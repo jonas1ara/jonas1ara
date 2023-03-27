@@ -13,7 +13,7 @@
 
 - 🐧 All my repositories work on linux, specifically on a Debian based distro, use the scripts to configure your environment
 
-- 🌱 I'm currently learning **[C++](https://github.com/Jonas-Lara/Victory-cpp), OpenCV, PyTorch, LibTorch, [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), [AI](https://github.com/Jonas-Lara/AI-cpp), [Maths](https://github.com/Jonas-Lara/Sigma) and Unity AR**
+- 🌱 I'm currently learning **[C++](https://github.com/Jonas-Lara/Rock-Lee), [PyTorch](https://github.com/Jonas-Lara/DL-Py), [LibTorch](https://github.com/Jonas-Lara/DL-Cpp), LibTorch, [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), and [Unity AR](https://github.com/Jonas-Lara/UPIIT-AR)**
 
 - 📝 I regularly write articles about what I learn from AI and Computer Science on [medium](https://medium.com/@jonas_lara)
 
