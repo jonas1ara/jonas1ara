@@ -15,10 +15,12 @@
 
 - 🌱 I'm currently learning **[C++](https://github.com/Jonas-Lara/Rock-Lee), [PyTorch](https://github.com/Jonas-Lara/DL-Py), [LibTorch](https://github.com/Jonas-Lara/DL-Cpp), [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), [Unity AR](https://github.com/Jonas-Lara/UPIIT-AR) and [Digital Image Processing](https://github.com/Jonas-Lara/DIP)**
 
+- Behind the scenes in my projects with C; IPN-CS, Web Server, Malloc, Compiler and Neural Network  
+
 - 🙋🏽‍♂️ I have a [YOUTUBE](https://www.youtube.com/@Jonas-1ara) channel in **Spanish** where I explain algorithms and more!
 
 - 📝 I regularly write articles about what I learn from AI and CS on [medium](https://medium.com/@jonas_lara)
- 
+
 - 🫱🏻‍🫲🏾 I share my maths notes on [instagram](https://www.instagram.com/nhard_euler/) 
 
 $$\sum_{k=1}^n c = nc$$
