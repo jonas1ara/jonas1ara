@@ -2,10 +2,7 @@
 <h3 align="center">A passionate student of AI</h3>
 
 
-![Object Detection](./Sources/memoryC-transformed.png)
-
-
-
+![Object Detection](./Sources/ComputerVision.gif)
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
@@ -14,6 +11,8 @@
 - 🐧 All my repositories work on linux, specifically on a [Debian](https://www.debian.org/index.html) based distro, use the scripts to configure your environment
 
 - 🎥 Behind the scenes in **my projects with C;** [IPN-CS](https://github.com/Jonas-Lara/IPN-CS), [Web Server](https://github.com/Jonas-Lara/Web-Server), [Malloc](https://github.com/Jonas-Lara/Malloc), [Compiler](https://github.com/Jonas-Lara/Compiler), [Shell](https://github.com/Jonas-Lara/IPN-CS/tree/master/16.-Llamadas-al-Sistema/ConstruyeUnShell) and [Neural Network](https://github.com/Jonas-Lara/NN-C) 
+
+![Segmentation Fault](./Sources/memoryC-transformed.png)
 
 - 🌱 I'm currently learning **[C++](https://github.com/Jonas-Lara/Rock-Lee), [PyTorch](https://github.com/Jonas-Lara/DL-Py), [LibTorch](https://github.com/Jonas-Lara/DL-Cpp), [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), [Unity AR](https://github.com/Jonas-Lara/UPIIT-AR) and [Digital Image Processing](https://github.com/Jonas-Lara/DIP)**
 
