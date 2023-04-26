@@ -3,6 +3,7 @@
 
 
 ![Object Detection](./Sources/ComputerVision.gif)
+_Image Segmentation_
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
@@ -13,6 +14,7 @@
 - 🎥 Behind the scenes in **my projects with C;** [IPN-CS](https://github.com/Jonas-Lara/IPN-CS), [Web Server](https://github.com/Jonas-Lara/Web-Server), [Malloc](https://github.com/Jonas-Lara/Malloc), [Compiler](https://github.com/Jonas-Lara/Compiler), [Shell](https://github.com/Jonas-Lara/IPN-CS/tree/master/16.-Llamadas-al-Sistema/ConstruyeUnShell) and [Neural Network](https://github.com/Jonas-Lara/NN-C) 
 
 ![Segmentation Fault](./Sources/memoryC-transformed.png)
+_Segmentation Fault_
 
 - 🌱 I'm currently learning **[C++](https://github.com/Jonas-Lara/Rock-Lee), [PyTorch](https://github.com/Jonas-Lara/DL-Py), [LibTorch](https://github.com/Jonas-Lara/DL-Cpp), [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), [Unity AR](https://github.com/Jonas-Lara/UPIIT-AR) and [Digital Image Processing](https://github.com/Jonas-Lara/DIP)**
 
@@ -27,7 +29,7 @@ $$\sum_{k=1}^n c = nc$$
 - 👀 **Take a look at my [portfolio](https://jonas-lara.github.io/Portfolio-AI/)** 💼
 
 ![dotNET Repl](./Sources/dotnet-repl.png)
-
+_.NET Repl_
 
 _I ❤️ the .NET development platform, I am happy to help you if you need help with F# and C#_
 
