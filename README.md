@@ -7,7 +7,7 @@ _Object detection with image segmentation_
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
-- 🔭 I'm currently developing the repositories [IPN-CS](https://github.com/Jonas-Lara/IPN-CS) y [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR), to promote the computation that works at the National Polytechnic Institute 
+- 🔭 I'm currently developing the repositories [IPN-CS](https://github.com/Jonas-Lara/IPN-CS) and [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR), to promote the computation that works at the National Polytechnic Institute 
 
 - 🐧 All my repositories work on linux, specifically on a [Debian](https://www.debian.org/index.html) based distro, use the scripts to configure your environment
 
