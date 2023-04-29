@@ -7,7 +7,7 @@ _Object detection with image segmentation_
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
-- 🔭 I'm currently developing the repositories [IPN-CS](https://github.com/Jonas-Lara/IPN-CS), [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR) y [CIC-IPN](https://github.com/Jonas-Lara/CIC-CNN), to promote the computation that works at the National Polytechnic Institute 
+- 🔭 I'm currently developing the repositories [IPN-CS](https://github.com/Jonas-Lara/IPN-CS) y [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR), to promote the computation that works at the National Polytechnic Institute 
 
 - 🐧 All my repositories work on linux, specifically on a [Debian](https://www.debian.org/index.html) based distro, use the scripts to configure your environment
 
@@ -16,7 +16,7 @@ _Object detection with image segmentation_
 ![Segmentation Fault](./Sources/memoryC-transformed.png)
 _Memory corruption_
 
-- 🌱 I'm currently learning **[C++](https://github.com/Jonas-Lara/Rock-Lee), [PyTorch](https://github.com/Jonas-Lara/DL-Py), [LibTorch](https://github.com/Jonas-Lara/DL-Cpp), [Computer Vision](https://github.com/Jonas-Lara/Computer-Vision), [Unity AR](https://github.com/Jonas-Lara/UPIIT-AR) and [Digital Image Processing](https://github.com/Jonas-Lara/DIP)**
+- 🌱 I'm currently learning **[C++](https://github.com/Jonas-Lara/Rock-Lee), PyTorch, LibTorch, Computer Vision, Unity AR and [Digital Image Processing](https://github.com/Jonas-Lara/DIP)**
 
 - 🙋🏽‍♂️ I have a [YOUTUBE](https://www.youtube.com/@Jonas-1ara) channel in **Spanish** where I explain algorithms and more!
 
