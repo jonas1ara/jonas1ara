@@ -15,7 +15,7 @@ _Object detection with image segmentation - Lib. Tlaxcala_
 
 - 🌱 I'm currently learning **[C++](https://github.com/Jonas-Lara/Rock-Lee), PyTorch, LibTorch, Computer Vision, Unity AR and [Digital Image Processing](https://github.com/Jonas-Lara/DIP)**
 
-- 🙋🏽‍♂️ I have a [YOUTUBE](https://www.youtube.com/@Jonas-1ara) channel in **Spanish** where I explain algorithms and more!
+- 🙋🏽‍♂️ I have a [YOUTUBE](https://www.youtube.com/@Jonas-1ara) channel in **Spanish** where I explain [algorithms](https://github.com/Jonas-Lara/Rock-Lee) and more!
 
 - 📝 I regularly write articles about what I learn from AI and CS on [medium](https://medium.com/@jonas_lara)
 
