@@ -3,7 +3,7 @@
 
 
 ![Object Detection](./Sources/ComputerVision.gif)
-_Object detection with image segmentation_
+_Object detection with image segmentation - Lib. Tlaxcala_
 
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
