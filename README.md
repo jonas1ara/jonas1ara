@@ -19,7 +19,7 @@ _Object detection with image segmentation_
 
 - 📝 I regularly write articles about what I learn from AI and CS on [medium](https://medium.com/@jonas_lara)
 
-- 🫱🏻‍🫲🏾 I share my maths notes on [instagram](https://www.instagram.com/nhard_euler/) 
+- 🫱🏻‍🫲🏾 I'm in love with math
 
 $$\sum_{k=1}^n c = nc$$
 
