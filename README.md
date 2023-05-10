@@ -25,9 +25,3 @@ $$\sum_{k=1}^n c = nc$$
 
 - 👀 **Take a look at my [portfolio](https://jonas-lara.github.io/Portfolio-AI/)** 💼
 
-<!--! [dotNET Repl](./Sources/dotnet-repl.png)
-_.NET interactive_ -->
-
-- I ❤️ the .NET development platform, I am happy to help you if you need help with F# and C#
-
-
