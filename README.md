@@ -11,7 +11,7 @@ _Object detection with image segmentation - Lib. Tlaxcala_
 
 - 🐧 All my repositories work on linux, specifically on a [Debian](https://www.debian.org/index.html) based distro, use the scripts to configure your environment
 
-- 🎥 Behind the scenes in **my projects with C;** [Web Server](https://github.com/Jonas-Lara/Web-Server), [Malloc](https://github.com/Jonas-Lara/Malloc), [Compiler](https://github.com/Jonas-Lara/Compiler), [Shell](https://github.com/Jonas-Lara/IPN-CS/tree/master/16.-Llamadas-al-Sistema/ConstruyeUnShell) and [Neural Network](https://github.com/Jonas-Lara/NN-C) 
+- 🎥 Behind the scenes in **my projects with C;** [Web Server](https://github.com/Jonas-Lara/Web-Server), [Malloc](https://github.com/Jonas-Lara/Malloc), [Shell](https://github.com/Jonas-Lara/IPN-CS/tree/master/16.-Llamadas-al-Sistema/ConstruyeUnShell) and [Neural Network](https://github.com/Jonas-Lara/NN-C) 
 
 - 🌱 I'm currently learning **Rust, PyTorch, LibTorch, Computer Vision, Unity AR and [Digital Image Processing](https://github.com/Jonas-Lara/DIP)**
 
