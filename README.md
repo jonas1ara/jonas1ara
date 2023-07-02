@@ -1,5 +1,5 @@
 <h1 align="center">Hey ✌, I'm Jonas Lara</h1>
-<h3 align="center">A passionate student of AI</h3>
+<h3 align="center">A passionate student of Data Science</h3>
 
 
 ![Object Detection](./Sources/ComputerVision.gif)
