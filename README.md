@@ -10,6 +10,8 @@ _Object detection with image segmentation - Lib. Tlaxcala_
 
 The Fourier series is a branch of Fourier analysis that aims to decompose a periodic function into a sum of exponentials (or trigonometric functions) with different frequencies and magnitudes, in this particular demonstration, we are defining $f(t)$ to be a periodic complex function with $t\in[0, 1]$
 
+Represent $f(t)$ as a sum of exponential functions rotating at frequencies of $0, 1, -1, 2, -2, ...$ rotations per $t$:
+
 $$
 f(t) = \dots + c_{-2}e^{-2\cdot 2\pi it} + c_{-1}e^{-1\cdot 2\pi it} + c_{0}e^{0\cdot 2\pi it} + c_{1}e^{1\cdot 2\pi it} + c_{2}e^{2\cdot 2\pi it} + \dots
 $$
