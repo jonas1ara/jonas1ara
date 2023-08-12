@@ -13,7 +13,7 @@ _Object detection with image segmentation - Lib. Tlaxcala_
 
 - 🎥 Behind the scenes in **my projects with C;** [Web Server](https://github.com/Jonas-Lara/Web-Server), [Malloc](https://github.com/Jonas-Lara/Malloc), [Shell](https://github.com/Jonas-Lara/IPN-CS/tree/master/16.-Llamadas-al-Sistema/ConstruyeUnShell) and [Neural Network](https://github.com/Jonas-Lara/NN-C) 
 
-- 🌱 I'm currently learning **Rust, PyTorch, LibTorch, Computer Vision, Unity AR and [Digital Image Processing](https://github.com/Jonas-Lara/DIP)**
+- 🌱 I'm currently learning **PyTorch, LibTorch, Computer Vision, Mojo and [Digital Image Processing](https://github.com/Jonas-Lara/DIP)**
 
 - 🙋🏽‍♂️ I have a [YOUTUBE](https://www.youtube.com/@Jonas-1ara) channel in **SPANISH** where I explain [algorithms](https://github.com/Jonas-Lara/Rock-Lee) and more!
 
