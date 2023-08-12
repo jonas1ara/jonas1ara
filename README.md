@@ -1,10 +1,10 @@
 <h1 align="center">Hey ✌, I'm Jonas Lara</h1>
 <h3 align="center">A passionate student of Mathematics and Psicology</h3>
 
-
+<!--
 ![Object Detection](./Sources/ComputerVision.gif)
 _Object detection with image segmentation - Lib. Tlaxcala_
-
+-->
 ![](https://komarev.com/ghpvc/?username=Jonas-Lara)
 
 - 🔭 I'm currently developing the repositories [IPN-CS](https://github.com/Jonas-Lara/IPN-CS) and [UPIIT-AR](https://github.com/Jonas-Lara/UPIIT-AR), to promote the computation that works at the Instituto Politécnico Nacional
