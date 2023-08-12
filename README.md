@@ -1,11 +1,6 @@
 <h1 align="center">Hey ✌, I'm Jonas Lara</h1>
 <h3 align="center">A passionate student of Mathematics and Psicology</h3>
 
-<!--
-![Object Detection](./Sources/ComputerVision.gif)
-_Object detection with image segmentation - Lib. Tlaxcala_
--->
-
 ## Fourier series, a poem ...
 
 The Fourier series is a branch of Fourier analysis that aims to decompose a periodic function into a sum of exponentials (or trigonometric functions) with different frequencies and magnitudes, in this particular demonstration, we are defining $f(t)$ to be a periodic complex function with $t\in[0, 1]$
@@ -34,7 +29,3 @@ Distributing the definite integral:
 $$
 \int_0^1 f(t) dt = \dots + \int_0^1c_{-1}e^{-1\cdot 2\pi it}dt + \int_0^1c_{0}e^{0\cdot 2\pi it}dt + \int_0^1c_{1}e^{1\cdot 2\pi it}dt + \dots
 $$
-
-
-
-![](https://komarev.com/ghpvc/?username=Jonas-Lara)
