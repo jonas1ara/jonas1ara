@@ -21,7 +21,21 @@ _Object detection with image segmentation - Lib. Tlaxcala_
 
 - ✍🏽 Every day I make an effort to understand mathematics
 
-$$\sum_{k=1}^n c = nc$$
+$$
+f(t) = \dots + c_{-2}e^{-2\cdot 2\pi it} + c_{-1}e^{-1\cdot 2\pi it} + c_{0}e^{0\cdot 2\pi it} + c_{1}e^{1\cdot 2\pi it} + c_{2}e^{2\cdot 2\pi it} + \dots
+$$
+
+$$
+\int_0^1 f(t) dt
+$$
+
+$$
+\int_0^1 f(t) dt = \int_0^1 (\dots + c_{-1}e^{-1\cdot 2\pi it} + c_{0}e^{0\cdot 2\pi it} + c_{1}e^{1\cdot 2\pi it} + \dots)dt
+$$
+
+$$
+\int_0^1 f(t) dt = \dots + \int_0^1c_{-1}e^{-1\cdot 2\pi it}dt + \int_0^1c_{0}e^{0\cdot 2\pi it}dt + \int_0^1c_{1}e^{1\cdot 2\pi it}dt + \dots
+$$
 
 - 👀 **Take a look at my [portfolio](https://jonas-lara.github.io/Portfolio-AI/)** 💼
 
