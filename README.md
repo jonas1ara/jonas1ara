@@ -1,7 +1,7 @@
 <h1 align="center">Hey ✌, I'm Jonas Lara</h1>
 <h3 align="center">A passionate student of Mathematics</h3>
 
-![greece](1500x500.jpeg)
+![greece](/1500x500.jpeg)
 
 ## Fourier series, a poem ...
 
