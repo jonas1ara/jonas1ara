@@ -1,6 +1,8 @@
 <h1 align="center">Hey ✌, I'm Jonas Lara</h1>
 <h3 align="center">A passionate student of Mathematics</h3>
 
+![greece](1500x500.jpeg)
+
 ## Fourier series, a poem ...
 
 The Fourier series is a branch of Fourier analysis that aims to decompose a periodic function into a sum of exponentials (or trigonometric functions) with different frequencies and magnitudes, in this particular demonstration, we are defining $f(t)$ to be a periodic complex function with $t\in[0, 1]$
