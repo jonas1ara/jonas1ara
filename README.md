@@ -1,9 +1,9 @@
 <h1 align="center">I'm Jonas Lara</h1>
-<h3 align="center">A passionate student of Mathematics and Psicology</h3>
+<h3 align="center">A passionate student of Mathematics</h3>
 
 ![greece](/1500x500.jpeg)
 
-_I am the reincarnation of some thinker from ancient Greece living the glorious modernity_
+_I think about the Roman Empire every day_
 
 ## Fourier series, a poem ...
 
