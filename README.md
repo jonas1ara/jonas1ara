@@ -1,5 +1,4 @@
-<h1 align="center">I'm Jonas Lara</h1>
-<h3 align="center">A passionate student of Mathematics</h3>
+<h2 align="center">I'm Jonas Lara, a passionate student of Mathematics</h2>
 
 ## Fourier series, a poem ...
 
