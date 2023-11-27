@@ -30,3 +30,7 @@ Distributing the definite integral:
 $$
 \int_0^1 f(t) dt = \dots + \int_0^1c_{-1}e^{-1\cdot 2\pi it}dt + \int_0^1c_{0}e^{0\cdot 2\pi it}dt + \int_0^1c_{1}e^{1\cdot 2\pi it}dt + \dots
 $$
+
+## Portfolio
+
+If you are interested in my portfolio, please go to this [link](https://jonas1ara.github.io/jonas1ara-me/)
