@@ -33,4 +33,4 @@ $$
 
 ## Portfolio
 
-If you are interested in my portfolio, please go to this [link](https://jonas1ara.github.io/jonas1ara-me/)
+If you are interested in my portfolio, please go to [jonas1ara.me](https://jonas1ara.me/)
