@@ -41,4 +41,4 @@ If you are not interested in my portfolio, see my photo collection: [jonas1ara.p
 
 ## Blog
 
-If you are not intested in my portfolio and in my photos app, maybe you are interested in my [blog](https://jonas1ara.github.io/)
+If you are not interested in my portfolio and my photos, maybe you are interested in my [blog](https://jonas1ara.github.io/)
