@@ -34,3 +34,7 @@ $$
 ## Portfolio
 
 If you are interested in my portfolio, please go to [jonas1ara.me](https://jonas1ara.me/)
+
+## Photos
+
+If you are not interested in my portfolio, see my photo collection: [jonas1ara.photos](https://jonas1ara.photos/)
