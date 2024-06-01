@@ -37,8 +37,8 @@ If you are interested in my portfolio, please go to [jonas1ara.me](https://jonas
 
 ## Photos
 
-If you are not interested in my portfolio, see my photo collection: [jonas1ara.photos](jonas1ara-photos.azurewebsites.net)
+If you are not interested in my portfolio, see my photo collection: [jonas1ara.photos](https://jonas1ara-photos.azurewebsites.net/)
 
 ## Blog
 
-If you are not interested in my portfolio and my photos, maybe you are interested in my blog: [jonas1ara.github.io](https://jonas1ara.github.io/)
+If you are not interested in my portfolio and my photos, maybe you are interested in my blog: [jonas1ara.net](https://jonas1ara.github.io/)
