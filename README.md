@@ -1,4 +1,4 @@
-<h1 align="center">I'm Jonas Lara </h1>
+<h1 align="center">Jonas Lara </h1>
 
 <!-- <h3 align="center">A mathematician</h3> -->
 
