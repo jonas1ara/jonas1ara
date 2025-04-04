@@ -1,6 +1,6 @@
 <h1 align="center">Jonas Lara </h1>
 
-<!-- <h3 align="center">A mathematician</h3> -->
+<h3 align="center">GitHub</h3>
 
 ## Fourier series, a poem ...
 
