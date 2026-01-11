@@ -33,4 +33,4 @@ $$
 
 ## Blog
 
-If you are interested in maths and computer science topics, you may be interested in my blog: [jonas1ara.github.io](https://jonas1ara.github.io/) or if you are interested in my lifestyle: [jonas1ara.photos(https://jonas1ara-photos.azurewebsites.net/)]
+If you are interested in maths and computer science topics, you may be interested in my blog: [jonas1ara.github.io](https://jonas1ara.github.io/) or if you are interested in my lifestyle: [jonas1ara.photos](https://jonas1ara-photos.azurewebsites.net/)
